@@ -1,4 +1,4 @@
-# escape
+# Escape
 
 A new Flutter project.
 
